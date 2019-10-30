@@ -1,0 +1,7 @@
+bin
+obj
+packages
+v15
+
+*.playlist
+*.tss
